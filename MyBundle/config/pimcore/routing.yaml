@@ -1,0 +1,3 @@
+my_homepage:
+    path:     /my
+    defaults: { _controller: MyBundle\Controller\DefaultController::indexAction }
